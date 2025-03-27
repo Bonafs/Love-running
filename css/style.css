@@ -1,0 +1,23 @@
+/* Header*/
+header {
+    background-color: lightcoral;
+    /*color: #fff;
+    padding: 1em 0;
+    text-align: center;*/
+}
+
+/* Main */
+main {
+    background-color: lightblue;
+    /*margin: 0 auto;
+    max-width: 800px;
+    padding: 1em;*/
+}
+
+/* Footer */
+footer {
+    background-color: orange;
+    /*color: #fff;
+    padding: 1em 0;
+    text-align: center;*/
+}
